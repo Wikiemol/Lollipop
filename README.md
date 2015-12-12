@@ -3,5 +3,8 @@ Unfortunatley, you can not simply run the code because it uses some movie clip s
 To see the app in action, you can download using these links:
 
 Mac OSX - http://www.mediafire.com/?cm138nrww5feld3
+
 Windows - http://www.mediafire.com/?0m1ajgk231sil0f
+
+It is flashed based, so it will probably work on any platform with flash, but the instructions for saving a picture were based on taking a screen shot using operating system commands.
 
